@@ -1,0 +1,4 @@
+.env
+db.sqlite
+mvenv
+__pycache__
